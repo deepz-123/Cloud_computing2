@@ -142,3 +142,30 @@ stress --cpu 2 --timeout 60
 4. You should receive an email notification from the SNS topic.
 
 **OUTPUT**
+**STEP 1**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/34ebc6c1-7b6e-42d6-8b77-62458fafc6dd" />
+
+**STEP 2**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/236afb53-ef68-42b5-b202-a00a8361be56" />
+
+**STEP 3**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e15767bc-24f5-4526-9c1e-7a71c2db3357" />
+
+**STEP 4**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/8fd90809-18bc-4e6a-ab3d-e60e37fb780d" />
+
+**STEP 5**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/16a38ebc-26bf-4188-a043-8bbede9feec3" />
+
+**STEP 6**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/413d9f5e-3e27-4307-8c56-996a9c0a7112" />
+
+**STEP 7**
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ad378298-6992-42ae-97a5-0de5074c9291" />
